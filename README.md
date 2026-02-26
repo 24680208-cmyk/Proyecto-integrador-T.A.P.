@@ -17,7 +17,7 @@ Este proyecto tiene como finalidad integrar los conocimientos fundamentales adqu
 - Aplicación de expresiones regulares
 - Organización visual de componentes
 
-El trabajo desarrollado demuestra la capacidad de diseñar un sistema funcional que interactúe con el usuario, valide información en tiempo real y garantice la integridad de los datos ingresados.
+El trabajo desarrollado demuestra la capacidad de diseñar un sistema funcional que interactúe con el usuario, valide información en tiempo real y garantice la integridad de los datos ingresados..
 
 ---
 
